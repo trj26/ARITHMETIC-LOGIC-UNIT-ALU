@@ -1,19 +1,17 @@
 **COMPANY** - CODTECH IT SOLUTIONS.
 
-
-
 **NAME** - TRUPTI RANJIT JAGTAP.
-
-
 
 **INTERN ID** - CT08LCH.
 
-
-
 **DOMAIN** - VLSI.
-**BATCH DURATION** - JANUARY 20TH,2025 TO FEBRUARY 20th,2025. 
+
+**BATCH DURATION** - JANUARY 20TH,2025 TO FEBRUARY 20th,2025.
+
 **MENTOR NAME** - NEELA SANTOSH KUMAR.
+
 **DESCRIPTION OF TASK PERFORMED**
+
 **Objective**: To design a Basic Arithmetic Logic Unit (ALU) capable of performing fundamental arithmetic and logical operations, including addition, subtraction, AND, OR, and NOT.
 
 The design is implemented in VSCODE by the extension of verilog and installing verilog and tested for correctness using a set of predefined test cases.
