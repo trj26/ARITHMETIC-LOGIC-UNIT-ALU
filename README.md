@@ -18,7 +18,7 @@ The design is implemented in VSCODE by the extension of verilog and installing v
 
 "STEPS PERFORMED" include
 
-**Requirement Analysis**: Identified the core operations required for the ALU: addition, subtraction, AND, OR, and NOT. Defined input and output specifications for the ALU. Two inputs A and B for binary operations. A single input A for unary operations like NOT. An operation selector signal (OpCode) to determine the desired operation. Output for the operation's result and a CarryOut signal for addition/subtraction if applicable.
+**REQUIREMENT ANALYSIS**: Identified the core operations required for the ALU: addition, subtraction, AND, OR, and NOT. Defined input and output specifications for the ALU. Two inputs A and B for binary operations. A single input A for unary operations like NOT. An operation selector signal (OpCode) to determine the desired operation. Output for the operation's result and a CarryOut signal for addition/subtraction if applicable.
 
 **DESIGN IMPLEMENTATION**: Created a modular design to allow scalability and reuse. Implemented the following functional blocks: Addition Block: Used a binary adder (Ripple Carry Adder or any efficient method). Subtraction Block: Leveraged two's complement addition to perform subtraction. Logic Blocks: Designed basic gates for AND, OR, and NOT operations. Integrated all functional blocks using a multiplexer controlled by the OpCode.
 
